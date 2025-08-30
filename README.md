@@ -54,8 +54,8 @@ It replicates the look and feel of Amazon's homepage including the navbar, hero 
 Amazon-Clone-Project/
 │
 ├── index.html          # Main HTML page
-├── Amazon.css          # CSS styling
-├── Amazon.js           # JavaScript functionality
+├── style.css          # CSS styling
+├── script.js           # JavaScript functionality
 ├── amazon_logo.png     # Logo image
 ├── hero_image.jpg      # Hero slider image 1
 ├── hero_image2.jpg     # Hero slider image 2
@@ -90,8 +90,5 @@ Amazon-Clone-Project/
 
 ---
 
-## **Author**
-
-* Bhumi Jadav
 
 
